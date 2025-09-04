@@ -5,13 +5,13 @@ The workflow is built with scikit-learn Pipelines to ensure clean preprocessing 
 
 ## Key Steps
 
-Preprocessed data using ColumnTransformer for:
-Scaling numerical features
-Encoding categorical features
-Implemented XGBRegressor for regression
-Evaluated the model using RMSE
-Automated preprocessing & model training using Pipelines
-Performed hyperparameter tuning with GridSearchCV to optimize the predictions
+Preprocessed data using ColumnTransformer for:<br>
+Scaling numerical features.<br>
+Encoding categorical features.<br>
+Implemented XGBRegressor for regression<br>
+Evaluated the model using RMSE<br>
+Automated preprocessing & model training using Pipelines<br>
+Performed hyperparameter tuning with GridSearchCV to optimize the predictions<br>
 
 ## RMSE-After Optimization 
 ![Score](/grid_searchcv.png)
